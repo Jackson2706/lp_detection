@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>5715_jpg.rf.9804251cb260e674f00f9944031050b2.jpg</filename>
+	<path>5715_jpg.rf.9804251cb260e674f00f9944031050b2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>215</xmin>
+			<xmax>323</xmax>
+			<ymin>242</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
